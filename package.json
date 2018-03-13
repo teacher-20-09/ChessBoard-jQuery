@@ -1,0 +1,18 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "jquery.js",
+  "scripts": {
+    "test": "com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "epos"
+  },
+  "keywords": [
+    "reyw"
+  ],
+  "author": "roma",
+  "license": "ISC"
+}
